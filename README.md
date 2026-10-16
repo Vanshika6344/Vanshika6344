@@ -1,5 +1,3 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
 # 👋 Hi, I'm Vanshika!
