@@ -1,3 +1,4 @@
+![logo](https://github.com/Vanshika6344/Vanshika6344/blob/main/vanshika.png)
 <div align="center">
 
 # 👋 Hi, I'm Vanshika!
